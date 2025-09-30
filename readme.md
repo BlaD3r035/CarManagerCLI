@@ -35,8 +35,11 @@ CarManagerCLI/
 
 > │── CarManagerCLI.csproj
 
-## Installation & Usage
-
+# Installation & Usage
+## Via zip:
+https://github.com/BlaD3r035/CarManagerCLI/releases/tag/Release
+Download, unzip, enjoy💕
+## Via repo 
 ### clone repo
 ```bash
 git clone https://github.com/BlaD3r035/CarManagerCLI
