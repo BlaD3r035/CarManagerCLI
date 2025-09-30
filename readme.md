@@ -21,13 +21,19 @@ A simple (CLI) c# project to manage car dealers, their vehicles, and user sessio
 ## Project Structure
 
 CarManagerCLI/
-│── Client/ # CLI logic (only Vehicle manager)
-│── Data/ # json files
-│── Config/ # Configuration management (Json data op)
-│── Controllers/ # Dealers controller
-│── Models/ # Core models (Car, CarDealer)
-│── Program.cs # Entry point and main menu
-│── CarManagerCLI.csproj
+> │── Client/ # CLI logic (only Vehicle manager)
+
+> │── Data/ # json files
+
+> │── Config/ # Configuration management (Json data op)
+
+> │── Controllers/ # Dealers controller
+
+> │── Models/ # Core models (Car, CarDealer)
+
+> │── Program.cs # Entry point and main menu
+
+> │── CarManagerCLI.csproj
 
 ## Installation & Usage
 
